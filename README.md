@@ -22,7 +22,7 @@
 ### 📺 YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![INTERNET ? How does Internet work?](https://ytcards.demolab.com/?id=tDH-oMfDqVM&title=INTERNET+?+How+does+Internet+work?+&lang=en&timestamp=1755897603&background_color=%230d1117&title_color=#ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1732729007 "Portable Workstation")](https://youtu.be/tDH-oMfDqVM)
+[![INTERNET ? How does Internet work?](https://ytcards.demolab.com/?id=tDH-oMfDqVM&title=INTERNET+?+How+does+Internet+work?+&lang=en&timestamp=1755897603&background_color=%230d1117&title_color=#ffffff&stats_color=#dedede&max_title_lines=1&width=250&border_radius=5&duration=1732729007 "Portable Workstation")](https://youtu.be/tDH-oMfDqVM)
 
 <!-- 
 let date_string="28 Nov 2024";
