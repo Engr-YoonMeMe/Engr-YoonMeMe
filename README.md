@@ -26,6 +26,10 @@
 [![IPv4 Address](https://ytcards.demolab.com/?id=xYjHeeF2law&title=IPv4+Address&lang=en&timestamp=1733074200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=788 "IPv4 Address")](https://youtu.be/xYjHeeF2law)
 [![IPv6 Address / Internet Protocol Version 6](https://ytcards.demolab.com/?id=uDCUYavqZbI&title=IPv6+Address+/+Internet+Protocol+Version+6&lang=en&timestamp=1733359905&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1095 "IPv6 Address / Internet Protocol Version 6")](https://youtu.be/uDCUYavqZbI)
 
+[![Wireless Evolution (Wi-Fi)](https://ytcards.demolab.com/?id=sx_t8X53AKY&title=Wireless+Evolution+(Wi-Fi)&lang=en&timestamp=1734655999&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=715 "Wireless Evolution (Wi-Fi)")](https://youtu.be/sx_t8X53AKY)
+[![IPv4 Address](https://ytcards.demolab.com/?id=xYjHeeF2law&title=IPv4+Address&lang=en&timestamp=1733074200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=788 "IPv4 Address")](https://youtu.be/xYjHeeF2law)
+[![IPv6 Address / Internet Protocol Version 6](https://ytcards.demolab.com/?id=uDCUYavqZbI&title=IPv6+Address+/+Internet+Protocol+Version+6&lang=en&timestamp=1733359905&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1095 "IPv6 Address / Internet Protocol Version 6")](https://youtu.be/uDCUYavqZbI)
+
 <!-- 
 let date_string="28 Nov 2024";
 let date=new Date(date_string);
