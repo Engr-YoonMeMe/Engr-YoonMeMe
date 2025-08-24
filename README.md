@@ -23,7 +23,7 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![INTERNET ? How does Internet work?](https://ytcards.demolab.com/?id=tDH-oMfDqVM&title=INTERNET+?+How+does+Internet+work?&lang=en&timestamp=1732752407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=407 "INTERNET ? How does Internet work?")](https://youtu.be/tDH-oMfDqVM)
-[![IPv4 Address](https://ytcards.demolab.com/?id=xYjHeeF2law&title=IPv4+Address&lang=en&timestamp=1732752407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=407 "IPv4 Address")](https://youtu.be/xYjHeeF2law)
+[![IPv4 Address](https://ytcards.demolab.com/?id=xYjHeeF2law&title=IPv4+Address&lang=en&timestamp=1732752407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=788 "IPv4 Address")](https://youtu.be/xYjHeeF2law)
 
 <!-- 
 let date_string="28 Nov 2024";
