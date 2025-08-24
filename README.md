@@ -22,8 +22,6 @@
 ### 📺 YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
-[![INTERNET ? How does Internet work?](https://ytcards.demolab.com/?id=tDH-oMfDqVM&title=INTERNET+?+How+does+Internet+work?&lang=en&timestamp=1732752407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59 "INTERNET ? How does Internet work?")](https://youtu.be/tDH-oMfDqVM)
 [![INTERNET ? How does Internet work?](https://ytcards.demolab.com/?id=tDH-oMfDqVM&title=INTERNET+?+How+does+Internet+work?&lang=en&timestamp=1732752407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=407 "INTERNET ? How does Internet work?")](https://youtu.be/tDH-oMfDqVM)
 
 <!-- 
